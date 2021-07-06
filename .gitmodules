@@ -1,0 +1,12 @@
+[submodule "smartbrain-front-end"]
+	path = smartbrain-front-end
+	url = https://github.com/Nizar4790k/smartbrain-front-end
+[submodule "smart-brain-api"]
+	path = smart-brain-api
+	url = https://github.com/Nizar4790k/smart-brain-api
+[submodule "bsupermarket-front-end"]
+	path = bsupermarket-front-end
+	url = https://github.com/Nizar4790k/bsupermarket-front-end
+[submodule "bsupermarket-back-end"]
+	path = bsupermarket-back-end
+	url = https://github.com/Nizar4790k/bsupermarket-back-end
